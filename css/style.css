@@ -120,7 +120,16 @@ header {
   margin: 10px auto;
   background: #ea6e20;
 }
-
+@media (max-width: 1140px) {
+  .app {
+    background: linear-gradient(
+      90deg,
+      #010202 0%,
+      #010202 57%,
+      rgba(1, 2, 2, 0.2) 90%
+    );
+  }
+}
 @media (max-width: 768px) {
   .app {
     height: auto;
