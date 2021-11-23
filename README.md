@@ -1,4 +1,4 @@
-# Mortal Kombat - учебный проект Glo Academy
+# Mortal Kombat
 ## Выполнил проект - Макаревич Константин
 ### Технологии:
 - HTML
